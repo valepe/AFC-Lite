@@ -1,42 +1,37 @@
-# PCB-GitHub-Template
+# AFC-Lite
 Start with a picture, followed by a brief description.
 
-### Features
+## Purchasing a AFC-Lite
+### Buy From Me
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+- Ships worldwide
 
-Only add if there are features worth explaining/listing in a table.
+#### United States
+- [Isik's Tech](.)
 
-## Purchasing a XXX
-### United States
-- [Isik's Tech](.) (Me)
+### Resellers
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+### European Union
+- [Lab4450 (Portugal)](.)
+- [Alchemy3D (Germany)](.)
+
+### Other Trusted Vendors
+These vendors source their PCBs from other sources, but are trusted vendors on Voron and Voron-related communities.
+
+[TBD]
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 2 oz inner layers.
 <br>
 
 ## Instructions
 
 ...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
 
 ## YouTube
 
