@@ -26,12 +26,12 @@ These vendors source their PCBs from other sources, but are trusted vendors on V
 
 If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 2 oz inner layers.
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 1 oz inner layers.
 <br>
 
 ## Instructions
 
-[Manual](.)
+[Manual](./Docs/AFC-Lite_Manual.pdf)
 
 ## Notes
 - Markdown files in this repository may contain Amazon Associate, Aliexpress affiliate, PCBWay affiliate, Jawstec affiliate, Polymaker affiliate links. I make a comission on qualifying purchases.
