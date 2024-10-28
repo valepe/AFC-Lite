@@ -11,17 +11,16 @@ AFC-Lite is a open-source PCB designed for Armored Turtle's Box Turtle system. I
 - 5V Buck Converter
 
 ## Purchasing a AFC-Lite
-### Buy From Me
-#### United States
-- [Isik's Tech](https://store.isiks.tech/products/afc-lite)
+### Buy From Me (US - Ships Worldwide)
+[AFC-Lite - Isik's Tech](https://store.isiks.tech/products/afc-lite) <br>
+We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) and [other BT parts](https://store.isiks.tech/collections/box-turtle-parts) available.
 
-### Resellers
-### Australia
+### Australia Resellers
 - [DREMC](https://store.dremc.com.au/products/afc-lite-box-turtle-controller-pcb-by-isiks-tech)
-### European Union
+### European Union Resellers
 - [Alchemy3D (Germany)](https://alchemy3d.de/products/boxed-turtle-afc-lite-controller-pcb)
 - [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
-### United Kingdom
+### United Kingdom Resellers
 - [One Two 3D](https://www.onetwo3d.co.uk/product/isiks-tech-afc-lite-box-turtle-controller-pcb/)
 
 ## Instructions
