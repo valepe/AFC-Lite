@@ -3,34 +3,19 @@ Start with a picture, followed by a brief description.
 
 ## Purchasing a AFC-Lite
 ### Buy From Me
-- PCBs QC'd by me
-- All connectors needed are included (if applicable)
-- Supports the development of open-source projects like this
-- Ships worldwide
-
 #### United States
 - [Isik's Tech](https://store.isiks.tech/products/afc-lite)
 
 ### Resellers
-- PCBs QC'd by me
-- All connectors needed are included (if applicable)
-- Supports the development of open-source projects like this
+### Australia
+- [DREMC](https://store.dremc.com.au/products/afc-lite-box-turtle-controller-pcb-by-isiks-tech)
 ### European Union
-- [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
 - [Alchemy3D (Germany)](https://alchemy3d.de/products/boxed-turtle-afc-lite-controller-pcb)
-
-### Other Trusted Vendors
-These vendors source their PCBs from other sources, but are trusted vendors on Voron and Voron-related communities.
-
-[TBD]
-
-If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
-
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 1 oz inner layers.
-<br>
+- [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
+### United Kingdom
+- [One Two 3D](https://www.onetwo3d.co.uk/product/isiks-tech-afc-lite-box-turtle-controller-pcb/)
 
 ## Instructions
-
 [Manual](./Docs/AFC-Lite_Manual.pdf)
 
 ## Notes
