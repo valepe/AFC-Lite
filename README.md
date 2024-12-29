@@ -17,6 +17,8 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 
 ### Australia
 - [DREMC](https://store.dremc.com.au/products/afc-lite-box-turtle-controller-pcb-by-isiks-tech)
+### Canada
+- [Amazon](https://www.amazon.ca/dp/B0DMWB52Z3) (Ships from US)
 ### European Union
 - [Alchemy3D (Germany)](https://alchemy3d.de/products/boxed-turtle-afc-lite-controller-pcb)
 - [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
