@@ -23,7 +23,7 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 ### United Kingdom
 - [One Two 3D](https://www.onetwo3d.co.uk/product/isiks-tech-afc-lite-box-turtle-controller-pcb/)
 ### United States
-- [Amazon](https://advertising.amazon.com/attribution/campaigns/586217194186370937/adgroups/create/confirmation?entityId=ENTITY1PPYWRHUU60CY&success=true&campaignId=586217194186370937&adGroupsCreated=true&failedAdGroups=W10%3D&succeededAdGroups=WyI1ODI4NTM4NDg1NTE3NTQ4MjMiXQ%3D%3D) (Prime Shipping)
+- [Amazon](https://www.amazon.com/dp/B0DMWB52Z3?maas=maas_adg_A3C1FA832FBAA5A33374316DF932F9DB_afap_abs&ref_=aa_maas&tag=maas) (Prime Shipping)
 
 ## Instructions
 [Manual](./Docs/AFC-Lite_Manual.pdf)
