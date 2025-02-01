@@ -27,7 +27,7 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 ### United States
 - [Amazon](https://www.amazon.com/dp/B0DMWB52Z3?maas=maas_adg_A3C1FA832FBAA5A33374316DF932F9DB_afap_abs&ref_=aa_maas&tag=maas) (Prime Shipping)
 ### Aliexpress
-- [SeleadLab](https://www.aliexpress.com/item/3256808060218139.html)
+- [SeleadLab](https://s.click.aliexpress.com/e/_oD9LPyv)
 
 ## Instructions
 [Manual](./Docs/AFC-Lite_Manual.pdf)
