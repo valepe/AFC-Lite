@@ -1,37 +1,26 @@
 # AFC-Lite
 ![AFC-Lite PCB](./Images/PCB.jpg)
 AFC-Lite is a PCB designed for Armored Turtle's Box Turtle system. It features:
-- 4x Stepstick Slots for TMC2209-based Stepsticks
-- 4x Brushed DC Motor Drivers
-- 4x RGB LED Connectors
-- 12x Endstop Connectors
-- 1x 5V Fan Connector (No Speed Control)
+- 8x Stepstick Slots for TMC2209-based Stepsticks
+- 8x Brushed DC Motor Drivers supporting 5V, 12V and 24V Motors
+- 4x ARGB LED Connectors
+- 20x Switch Connectors
+- 2x Thermistor Connectors
+- I2C connector for Chamber Sensors Like Our Nevermore Sensors
+- Fan Connector with Selectable Voltage and Speed Control
+- Heater Control
 - STM32H723 MCU
-- USB and CAN Support
-- 5V Buck Converter
+- USB and CAN Support, With Spare CAN Connector for Daisy Chaining
+- 5V and 12V Buck Converters
 
-## Purchasing a AFC-Lite
+## Purchasing a AFC-Pro
 ### Buy From Me (US - Ships Worldwide)
-[AFC-Lite - Isik's Tech](https://store.isiks.tech/products/afc-lite) <br>
+[AFC-Pro - Isik's Tech](https://store.isiks.tech/products/afc-pro) <br>
 We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) and [other BT parts](https://store.isiks.tech/collections/box-turtle-parts) available.
-
-### Australia
-- [DREMC](https://store.dremc.com.au/products/afc-lite-box-turtle-controller-pcb-by-isiks-tech)
-### Canada
-- [Amazon](https://www.amazon.ca/dp/B0DMWB52Z3) (Ships from US)
-### European Union
-- [Alchemy3D (Germany)](https://alchemy3d.de/products/boxed-turtle-afc-lite-controller-pcb)
-- [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
-### United Kingdom
-- [One Two 3D](https://www.onetwo3d.co.uk/product/isiks-tech-afc-lite-box-turtle-controller-pcb/)
-### United States
-- [Amazon](https://www.amazon.com/dp/B0DMWB52Z3?maas=maas_adg_A3C1FA832FBAA5A33374316DF932F9DB_afap_abs&ref_=aa_maas&tag=maas) (Prime Shipping)
-### Aliexpress
-- [SeleadLab](https://s.click.aliexpress.com/e/_oD9LPyv)
-- [Triangle Lab](https://s.click.aliexpress.com/e/_okjq6Id)
+As resellers list these, we will add their links here.
 
 ## Instructions
-[Manual](./Docs/AFC-Lite_Manual.pdf)
+[Manual](./Docs/AFC-Pro_Manual.pdf)
 
 ## License
 This work is licensed under a
