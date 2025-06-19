@@ -1,4 +1,4 @@
-**Make sure to order at least 1ox thick inner layers**
+**Make sure to order at least 1oz thick inner layers**
 
 Files on this repository are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. **Commercial use of these files isn't allowed under this license.**
 
