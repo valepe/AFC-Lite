@@ -1,5 +1,6 @@
 # AFC-Lite
 ![AFC-Lite PCB](./Images/PCB.jpg)
+
 AFC-Lite is a PCB designed for Armored Turtle's Box Turtle system. It features:
 - 4x Stepstick Slots for TMC2209-based Stepsticks
 - 4x Brushed DC Motor Drivers
