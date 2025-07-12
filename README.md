@@ -1,5 +1,5 @@
 # AFC-Lite
-![AFC-Lite PCB](./Images/PCB.jpg)
+![AFC-Lite PCB](https://raw.githubusercontent.com/xbst/AFC-Lite/refs/heads/master/Images/PCB.jpg)
 
 AFC-Lite is a PCB designed for Armored Turtle's Box Turtle system. It features:
 - 4x Stepstick Slots for TMC2209-based Stepsticks
@@ -32,7 +32,7 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 - [Triangle Lab](https://s.click.aliexpress.com/e/_okjq6Id)
 
 ## Instructions
-[Manual](./Docs/AFC-Lite_Manual.pdf)
+[Manual](https://raw.githubusercontent.com/xbst/AFC-Lite/refs/heads/master/Docs/AFC-Lite_Manual.pdf)
 
 ## License
 This work is licensed under a
